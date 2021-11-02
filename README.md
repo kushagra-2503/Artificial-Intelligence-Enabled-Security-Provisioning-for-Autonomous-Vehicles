@@ -5,6 +5,6 @@
 4. Writing manuscript for the paper
 
 
-Link for the datasets: https://drive.google.com/drive/folders/195q0Yl0sdiixDk9T8ng9qWQMaoxBsNwR?usp=sharing
-Training code and testing code added
-Ensure that datasets are in ./Sequence_Datasets
+Link for the datasets: https://drive.google.com/drive/folders/195q0Yl0sdiixDk9T8ng9qWQMaoxBsNwR?usp=sharing <br>
+Training code and testing code added <br>
+Ensure that datasets are in ./Sequence_Datasets <br>
